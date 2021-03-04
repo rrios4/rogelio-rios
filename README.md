@@ -1,5 +1,5 @@
 <div align="center">
-<img width="90%" height = "350px" src="https://cdn-0.idownloadblog.com/wp-content/uploads/2020/10/iOS-14.2-wallpaper-LAke-The-Beach-Light-Mode.jpg" alt="cover" />
+<img width="100%" height = "450px" src="https://cdn-0.idownloadblog.com/wp-content/uploads/2020/10/iOS-14.2-wallpaper-LAke-The-Beach-Light-Mode.jpg" alt="cover" />
 </div>
 
 <h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -9,17 +9,17 @@
 
 </p>
 <div size='20px'> Hi! My name is Rogelio Rios. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2> Connect with Me </h2>
-<p align = 'center' style="padding: 10px">
-<a href = 'https://www.linkedin.com/in/rrios4'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
- 
-<a href = 'https://www.github.com/rrios4'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<h2> Connect with Me</h2>
+<p align = 'center'>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/rogelio-rios-b14128184/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://rrios4.github.io/Portfolio/'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/https://github.com/rrios4'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
 </div>
 
-<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
-<p align = 'center'>
+<h2 align='center'> Skills</h2>
+<p align = 'center' >
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
@@ -60,7 +60,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rrios4&count_private=true&show_icons=true&theme=default" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrios4&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrios4&theme=default" />
 </a>
 
 <!-- BLOG-POST-LIST:START -->
