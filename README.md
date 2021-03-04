@@ -9,9 +9,10 @@
 
 </p>
 <div size='20px'> Hi! My name is Rogelio Rios. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align = 'center'>
+<h2> Connect with Me </h2>
+<p align = 'center' style="padding: 10px">
 <a href = 'https://www.linkedin.com/in/rrios4'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+ 
 <a href = 'https://www.github.com/rrios4'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 </p>
@@ -66,5 +67,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
